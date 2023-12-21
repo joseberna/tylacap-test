@@ -1,3 +1,8 @@
+JOSE FERNANDO BERNA MOLANO
+
+Base de datos Postgres
+talycap
+
 Ejercicio a desarrollar:
 Necesitamos por favor crear un conjunto de funcionalidades encapsuladas en un microservicio bajo el framework
 SpringBoot que cumplan las siguientes características:
